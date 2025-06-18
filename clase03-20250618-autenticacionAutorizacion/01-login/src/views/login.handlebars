@@ -1,0 +1,20 @@
+<h2>Login usuarios</h2>
+<hr>
+
+<form action="/api/sessions/login" method="post">
+
+    <div id="mensajes"></div>
+
+    <input type="email" name="email" placeholder="correo electrónico" id="email">
+    <input type="password" name="password" placeholder="contraseña" id="password">
+
+    <input type="submit" value="Acceder" id="btnSubmit">
+</form>
+
+<br>
+<a href="/">Home</a>
+<br>
+<a href="/register">Register</a>
+<br>
+
+<script src="/js/login.js"></script>
