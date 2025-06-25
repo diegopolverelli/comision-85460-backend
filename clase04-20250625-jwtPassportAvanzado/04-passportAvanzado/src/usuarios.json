@@ -1,0 +1,72 @@
+[
+     {
+          "id": 1,
+          "nombre": "Administrador",
+          "email": "admin@test.com",
+          "password": "$2b$10$DXLaACSkV/c7m6eYlFl9FOlxW4XnB9/efKrsCFnPKyo2rXQRVWT/W",
+          "rol": "admin"
+     },
+     {
+          "id": 2,
+          "nombre": "Martin",
+          "email": "martin@test.com",
+          "password": "$2b$10$QffAz2cbx6KCQEU5g5VEu.NC7XeUhkuNBaDxVr214Qvs0rYW/NXyq",
+          "rol": "user"
+     },
+     {
+          "id": 3,
+          "nombre": "Lorena",
+          "email": "lorena@test.com",
+          "password": "$2b$10$LwtJbiAY3.eleBywQHLMu.c7aGRaqBLeg444gieoEPYedR.M1n1Sy",
+          "rol": "user"
+     },
+     {
+          "id": 4,
+          "nombre": "Carolina",
+          "email": "carolina@test.com",
+          "password": "$2b$10$8LrfbTveKDW5Ih/0RtEYUevZR94B3kBFpfUZ6l4AboTWs7VDSlZB.",
+          "rol": "user"
+     },
+     {
+          "id": 5,
+          "nombre": "Juan",
+          "email": "juan@test.com",
+          "password": "$2b$10$84Zwr8E2LL.SziI7A7w7v.mWiIxEyL75qQsiC5Ge3lpyzf3scBIWW",
+          "rol": "user"
+     },
+     {
+          "id": 6,
+          "nombre": "Juan",
+          "email": "juan10@test.com",
+          "password": "$2b$10$lOTh/34jDI5BWYa4eOYrPuyorFLN1q45qpjYhALx6sSX3XjdyAYbm",
+          "rol": "user"
+     },
+     {
+          "id": 7,
+          "nombre": "Carlos",
+          "email": "carlos@test.com",
+          "password": "$2b$10$1pHujATdxEdfKApi6L1ROu6OCoS3bB04CZ/CUVg0zDQFG8h4FgfoS",
+          "rol": "user"
+     },
+     {
+          "id": 8,
+          "nombre": "Carlos",
+          "email": "carlos1@test.com",
+          "password": "$2b$10$69z.lnscnbHdlIyiC4bBkuc76DTbpxW..h4KgnHcYrNZHe/CT5N4m",
+          "rol": "user"
+     },
+     {
+          "id": 9,
+          "nombre": "Carlos",
+          "email": "carlos9@test.com",
+          "password": "$2b$10$OY.L35xODs1K0rZJBof3wehBIfG6QkJYELukFRk9eHlDEde7SI0oC",
+          "rol": "user"
+     },
+     {
+          "id": 10,
+          "nombre": "Carlos",
+          "email": "carlos19@test.com",
+          "password": "$2b$10$gSvjywtBRcpGZnkg52hSEeyScxASahAPa3f17aNZ8rRVYKLK3AyJO",
+          "rol": "user"
+     }
+]
